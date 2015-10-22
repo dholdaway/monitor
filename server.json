@@ -1,0 +1,6 @@
+{"Services": { "apache" : "running","sshd" : "running","syslog" : "running","php" : "not running","munin-node" : "not running" }, "Disk" : { "total" : "21G", "used" : "4.1G", "free" : "16G", "percentage" : "22% 
+" }, "Load" : "0.04,
+", "Users logged on" : "1
+", "Uptime" : "28 days
+", "Free RAM" : "316", "Total RAM" : "490", "IPv4" : "46.101.35.32/18","Hostname" : "devbox", "rxbytes" : "559632898", "txbytes" : "565808933", "updatesavail" : "41","JSON" : "close"
+ } 
